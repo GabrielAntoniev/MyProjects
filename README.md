@@ -17,7 +17,7 @@ A Windows application for viewing and manipulating simple 3D objects.
 
 ## 2. Cloud Storage
 
-A simple, secure client-server cloud storage system implemented in C using the POSIX API.
+A prototype of a simple, secure client-server cloud storage system implemented in C using the POSIX API.
 
 ### Features:
 - C (Linux)
