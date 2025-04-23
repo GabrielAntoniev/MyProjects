@@ -1,0 +1,2 @@
+INSERT INTO accounts (id, username, password)
+VALUES (1, 'gabi', '1234' );

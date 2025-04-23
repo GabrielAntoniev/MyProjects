@@ -1,0 +1,2 @@
+gcc cliect.c -o client -lcrypto
+gcc server.c -o server -lsqlite3
