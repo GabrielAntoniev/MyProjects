@@ -1,4 +1,4 @@
-# 📁 MyProjects
+# MyProjects
 
 Welcome to **MyProjects**, a collection of small-to-medium sized applications that explore topics such as 3D modeling, cloud storage, and heuristic optimization algorithms. Each project is designed to showcase practical implementations in areas like systems programming, computer graphics, and artificial intelligence.
 
@@ -7,11 +7,6 @@ Welcome to **MyProjects**, a collection of small-to-medium sized applications th
 ## 1. 3D Viewer
 
 A lightweight application for viewing and manipulating simple 3D objects in real time.
-
-### 🔧 Features:
-- Interactive camera and object controls
-- Basic vertex manipulation
-- Intuitive mouse and keyboard navigation
 
 ### 🎮 Controls:
 - `↑` (Up Arrow) — Zoom in  
@@ -28,18 +23,15 @@ A lightweight application for viewing and manipulating simple 3D objects in real
 
 A simple, secure **client-server cloud storage** system implemented in C using the **POSIX API**.
 
-### 🧰 Technologies:
+### Features:
 - C (Linux)
 - Socket programming
 - File handling
 - POSIX system calls
-
-### ⚙️ Functionality:
 - User login and session management
-- File upload/download capabilities
-- Cloud-based file listing and deletion
+- File upload/download functionalities
 
-### 📜 Supported Client Commands:
+### Supported Client Commands:
 ```bash
 login               # Log into an existing account
 cont nou            # Create a new account
@@ -49,3 +41,10 @@ upload              # Upload a file to the cloud
 download <filename> # Download a file from the cloud
 list                # View all stored files
 delfile <filename>  # Delete a file
+```
+
+---
+
+## 3. Genetic Algorithms and Heuristic methods
+The main problem approaced is finding the global minima of some computationally demanding functions, through experiments with genetic algorithms, simulated annealing algorithms and hill climbing algorithm.
+    The results of the experiments are in the pdf file.
