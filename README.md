@@ -2,7 +2,7 @@
 
 ## 1. 3D Viewer
 
-A lightweight application for viewing and manipulating simple 3D objects in real time.
+A Windows application for viewing and manipulating simple 3D objects.
 
 ### Controls:
 - `↑` (Up Arrow) — Zoom in  
@@ -17,7 +17,7 @@ A lightweight application for viewing and manipulating simple 3D objects in real
 
 ## 2. Cloud Storage
 
-A simple, secure client-server cloud storage system implemented in C using the **POSIX API**.
+A simple, secure client-server cloud storage system implemented in C using the POSIX API.
 
 ### Features:
 - C (Linux)
