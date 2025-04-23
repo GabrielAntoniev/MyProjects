@@ -4,7 +4,7 @@
 
 A lightweight application for viewing and manipulating simple 3D objects in real time.
 
-### 🎮 Controls:
+### Controls:
 - `↑` (Up Arrow) — Zoom in  
 - `↓` (Down Arrow) — Zoom out  
 - `Right Click + Drag` — Rotate camera (change point of view)  
